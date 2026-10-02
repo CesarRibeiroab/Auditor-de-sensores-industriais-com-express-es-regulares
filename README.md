@@ -85,11 +85,10 @@ python src/auditor.py src/dados_exemplo.txt
 
 | Integrante | Responsabilidades |
 | :--- | :--- |
-| *Nome 1* | *Descrever aqui* |
-| *Nome 2* | *Descrever aqui* |
-| *Nome 3* | *Descrever aqui* |
+| *Nome 1* | *Augusto Pereira Rodrigues* |
+| *Nome 2* | *Cauê Jadão Barroso* |
+| *Nome 3* | *César Augusto Borges Ribeiro* |
 
-> **Nota:** Preencher esta tabela com os nomes completos e atribuições reais de cada membro da equipe antes da entrega.
 
 ## Declaração de Uso de Inteligência Artificial
 Conforme estabelecido pela Resolução do curso de Ciência da Computação (CESUPA, 2026):
